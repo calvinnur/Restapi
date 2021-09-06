@@ -1,0 +1,8 @@
+*{
+    font-family: sans-serif;
+}
+table tr td{
+    width: 120px;
+    height: 60px;
+    text-align: center;
+}

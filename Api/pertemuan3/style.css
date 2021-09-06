@@ -1,0 +1,31 @@
+.form-login{
+    border: 1px #adaba1 solid;
+    width: 300px;
+    height: 300px;
+    margin: auto;
+    background-color: #d9d7d2;
+    border-radius: 5%;
+    margin-top: 60px;
+}
+.form-login h3{
+    text-align: center;
+}
+.form-login input{
+    border: 1px #adaba1 solid;
+    width: 60%;
+    margin-left: 20%;
+    height: 10%;
+    margin-top: 10px;
+    border-radius: 10px;
+    outline: none;
+}
+.form-login label{
+    position: relative;
+    left: 20%;
+    top: 10px;
+}
+.form-login button{
+    margin-top: 20px;
+    width: 60%;
+    margin-left: 20%;
+}

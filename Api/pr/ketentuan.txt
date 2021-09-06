@@ -1,0 +1,21 @@
+App name *
+Description *
+Category *
+app version *
+app size *
+last update *
+publisher name
+rating score *
+total rating *
+app icon *
+app screenshoot
+
+method = get
+
+contoh penggunaan
+source url = https://play.google.com/store/apps/details?id=com.supercell.clashroyale
+usage url = com.supercell.clashroyale
+localhost/nama folder/?url=usage url
+
+example koding di htdocs/comot.php
+com.miniclip.eightballpool
